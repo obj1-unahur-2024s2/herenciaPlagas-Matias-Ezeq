@@ -1,6 +1,6 @@
 class Hogar{
     var mugre
-    var comfort
+    const comfort
 
     method esBueno() = mugre <= comfort * 0.5
 
